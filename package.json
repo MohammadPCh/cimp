@@ -1,0 +1,28 @@
+{
+  "name": "cimp",
+  "version": "1.0.0",
+  "description": "write persian on images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MohammadPCh/cimp.git"
+  },
+  "keywords": [
+    "persian",
+    "image",
+    "node"
+  ],
+  "author": "Mohammad Pourcheriki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MohammadPCh/cimp/issues"
+  },
+  "homepage": "https://github.com/MohammadPCh/cimp#readme",
+  "dependencies": {
+    "crawler": "^1.2.1",
+    "jimp": "^0.8.4"
+  }
+}
