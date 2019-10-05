@@ -1,2 +1,2 @@
 # cimp
-wite persian on photos
+write persian on photos
